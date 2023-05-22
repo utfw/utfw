@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utfw&theme=default" /></div>
