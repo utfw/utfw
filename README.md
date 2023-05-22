@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utfw)](https://github.com/anuraghazra/github-readme-stats)
+[![utfw's GitHub stats](https://github-readme-stats.vercel.app/api?username=utfw)](https://github.com/anuraghazra/github-readme-stats)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utfw&theme=default&exclude=java
+(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utfw&theme=default&exclude=java)
