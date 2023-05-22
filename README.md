@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![utfw's GitHub stats](https://github-readme-stats.vercel.app/api?username=utfw)](https://github.com/anuraghazra/github-readme-stats)
-
-(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utfw&theme=default&exclude=java)
+<div><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utfw&theme=default" /></div>
+<div>
+  <img width="49.6%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utfw&theme=default&exclude=React" />
+<img width="49.6%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utfw&theme=default&utcOffset=9" /></div>
